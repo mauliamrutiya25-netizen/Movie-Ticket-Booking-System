@@ -99,7 +99,7 @@ The database `movies.db` is built using **SQLite** and contains four core tables
 ```bash
 cd Movie-Ticket
 
-### 2. 2. Install Dependencies
+###  2. Install Dependencies
 
 Make sure you have Streamlit installed:
 
