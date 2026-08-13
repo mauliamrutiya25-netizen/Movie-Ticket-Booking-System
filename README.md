@@ -98,29 +98,3 @@ The database `movies.db` is built using **SQLite** and contains four core tables
 
 ```bash
 cd Movie-Ticket
-
-###  2. Install Dependencies
-
-Make sure you have Streamlit installed:
-
-````bash
-pip install streamlit
-
-### 3. Initialize the Database
-
-Run the setup files to configure database tables and columns:
-
-````bash
-python create_db.py
-python update_db.py
-python update_bookings.py
-python update_movies_table.py
-
-
-### 4. Run the Application
-
-Start the Streamlit application server:
-
-````bash
-streamlit run main.py
-After execution, a browser tab should automatically open at http://localhost:8501.
