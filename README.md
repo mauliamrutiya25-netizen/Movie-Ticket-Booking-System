@@ -98,3 +98,14 @@ The database `movies.db` is built using **SQLite** and contains four core tables
 
 ```bash
 cd Movie-Ticket
+
+
+For example:
+
+```markdown
+### 2. Install Dependencies
+
+Make sure you have Streamlit installed:
+
+```bash
+pip install streamlit
